@@ -1,5 +1,5 @@
 //
-//  globalObject.js
+//  processObject.js
 //
 //  Written by leezhm(c)126.com, 27th March, 2012.
 //
