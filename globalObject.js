@@ -3,7 +3,7 @@
 //
 //  Written by leezhm(c)126.com, 27th March, 2012.
 //
-// Last modified by leezhm(c)126.com on 27th March, 2012.
+//  Last modified by leezhm(c)126.com on 27th March, 2012.
 //
 
 var util = require("util");
@@ -15,6 +15,7 @@ console.log("Pid          : " + process.pid);
 console.log("Platform     : " + process.platform);
 console.log("Memory       : " + util.inspect(process.memoryUsage()));
 console.log("Cur Work Dir : " + process.cwd());
+console.log("File Name    : " + __filename);
 console.log("Execute Path : " + process.execPath);
 console.log("Architecture : " + process.arch);
 console.log("Up Time      : " + process.uptime());
