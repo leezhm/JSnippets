@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Nodejs.iml" filepath="$PROJECT_DIR$/.idea/Nodejs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../Pythons/PythonSerials/.idea/PythonSerials.iml" filepath="$PROJECT_DIR$/../Pythons/PythonSerials/.idea/PythonSerials.iml" />
     </modules>
   </component>
 </project>
